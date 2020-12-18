@@ -12,5 +12,8 @@ public class calc {
 	}
 	public void prod(int a,int b) {
 		int n=(a*b);
-}
+	}
+	public void div(int a,int b) {
+		int n=(a/b);
+	}
 }
