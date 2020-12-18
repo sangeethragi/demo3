@@ -12,5 +12,9 @@ public class calc {
 	}
 	public void prod(int a,int b) {
 		int n=(a*b);
-}
+	}
+	public void multi(int a,int b) {
+		int n=(a*b);
+	}
+	
 }
